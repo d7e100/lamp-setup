@@ -1,5 +1,5 @@
 # lamp-setup
-shells for setting up LAMP :)
+setting up LAMP server :)
 - for Ubuntu
 ```bash
 wget https://raw.githubusercontent.com/d7e100/lamp-setup/master/ubuntu-setup.sh
